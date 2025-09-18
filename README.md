@@ -1,49 +1,64 @@
-# Hi, I’m Nitin Kumar Patwa 👋 (lobby11)
+# Hi, I’m Nitin 👋
 
-**Web Developer** · Founding Member @ TryBookAI · Passionate about Startups & Open Source
+![banner](https://your-banner-image-link) <!-- Replace with your banner image URL -->
 
-[🔗 trybookai.com](https://trybookai.com) · [LinkedIn](https://www.linkedin.com/in/nitin-kumar-patwa-a310a9329)
+<div align="center">
+  
+  <!-- Doughnut Chart for Tech Stack (generated via QuickChart) -->
+  ![Tech Stack](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['HTML','CSS','JavaScript','React','Node.js'],datasets:[{data:[25,20,20,20,15],backgroundColor:['%23E34F26','%231572B6','%23F7DF1E','%2361DAFB','%2343853D']}]},options:{plugins:{legend:{position:'bottom'}}}})
 
----
-
-## About me
-I build beautiful, interactive web experiences — mostly frontend-first projects with a mix of backend features. I enjoy learning new stacks fast, contributing to open-source, and turning ideas into products. I’ve built hobby projects, clones, and small full-stack apps (Node/Express + JS/React) and participate in daily frontend challenges.
-
-## Tech stack (high level)
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express (simple REST, small servers)  
-- **Databases / Tools:** (projects suggest static/JS-based projects; add DBs used)  
-- **Dev tools:** npm, Git, VS Code, basic CI/deploy concepts
-
-> Many of my projects are frontend HTML/CSS/JS and React starters; I also explore LLM-based experiments and small Node servers. Examples: `restaurent-llm-chatbot`, `react-start`, `best-movie`, and more. :contentReference[oaicite:1]{index=1}
-
-## Selected projects
-- **restaurent-llm-chatbot** — small LLM-enabled chatbot prototype (Node/Express + static UI). :contentReference[oaicite:2]{index=2}  
-- **react-start** — React starter/experiments. :contentReference[oaicite:3]{index=3}  
-- **100DAYS_OF_100WEBPROJECTS** — daily frontend mini-projects (HTML/CSS/JS). :contentReference[oaicite:4]{index=4}
-
-*(I keep experimenting — many repos are forks or learning projects. If you want, I can highlight 3 portfolio projects and add short screenshots / live demo links.)*
+</div>
 
 ---
 
-## What I’m learning & exploring
-- LLM integrations for web apps (chatbots, content generation)  
-- Deeper full-stack patterns: REST APIs, JWT auth, MongoDB / SQL basics  
-- UI polishing & interactive animations
+## 🛠 Skills
 
-## How to reach me
-- LinkedIn: https://www.linkedin.com/in/nitin-kumar-patwa-a310a9329  
-- Website: https://trybookai.com  
-- Email: `your.email@example.com` *(replace with preferred contact)*
-
----
-
-## Open to
-- Collaborations on frontend / web app projects  
-- Junior/full-stack roles, internships, and open-source contributions
+<div align="center">
+  <img src="https://img.icons8.com/color/96/html-5--v1.png" width="60" title="HTML5"/>
+  <img src="https://img.icons8.com/color/96/css3.png" width="60" title="CSS3"/>
+  <img src="https://img.icons8.com/color/96/javascript.png" width="60" title="JavaScript"/>
+  <img src="https://img.icons8.com/ultraviolet/96/react--v1.png" width="60" title="React"/>
+  <img src="https://img.icons8.com/color/96/nodejs.png" width="60" title="Node.js"/>
+</div>
 
 ---
 
+## 📚 About Me
+
+I’m a **web developer** and founding member of [TryBookAI](https://trybookai.com).  
+I love building beautiful, interactive experiences — mostly frontend-first projects with a mix of backend features.  
+I’m currently exploring **Node.js/Express + MongoDB + JWT authentication** while continuing to sharpen my React skills.
+
+---
+
+## 🚀 Selected Projects
+
+- **[restaurent-llm-chatbot](https://github.com/lobby11/restaurent-llm-chatbot)** — prototype chatbot using LLM ideas with Node/Express + static UI  
+- **[react-start](https://github.com/lobby11/react-start)** — React starter/experiments  
+- **[100DAYS_OF_100WEBPROJECTS](https://github.com/lobby11/100DAYS_OF_100WEBPROJECTS)** — daily frontend mini-projects in HTML/CSS/JS  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobby11&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobby11&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 [TryBookAI](https://trybookai.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitin-kumar-patwa-a310a9329)  
+- 📧 your.email@example.com *(replace with your email)*  
+
+---
+
+<div align="center">
 Thanks for visiting! ⭐️  
-(If you want, I can: 1) tailor this README to emphasize backend (Node + JWT + Mongo) or frontend (React + animations), 2) generate social preview images/screenshots for the top 3 projects, or 3) create commit-ready PR content.)
-
+</div>
