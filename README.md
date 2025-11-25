@@ -20,15 +20,19 @@ Specializing in <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalabl
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 About Me
+<h3 align="center">👨‍💻 About Me</h3>
 
 ```javascript
 const nitin = {
@@ -42,16 +46,18 @@ const nitin = {
 };
 ```
 
-- 🚀 Building **interactive web experiences**
-- ⚡ Specializing in **GSAP animations**
-- 🤖 Exploring **LLM integrations in JS**
-- 🎯 Open to **collaborations**
-- 📧 **nitiniiitr@gmail.com**
+<p align="left">
+• 🚀 Building <b>interactive web experiences</b><br/>
+• ⚡ Specializing in <b>GSAP animations</b><br/>
+• 🤖 Exploring <b>LLM integrations in JS</b><br/>
+• 🎯 Open to <b>collaborations</b><br/>
+• 📧 <b>nitiniiitr@gmail.com</b>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Current Focus
+<h3 align="center">🎯 Current Focus</h3>
 
 ```mermaid
 mindmap
@@ -76,51 +82,69 @@ mindmap
 </tr>
 </table>
 
+</div>
+
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
-
-<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h2>🛠️ Tech Arsenal</h2>
 
-### Frontend Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+<h3>Languages</h3>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+<h3>Frontend Frameworks & Libraries</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+</p>
+
+<h3>Backend & Databases</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+<h3>Tools & Technologies</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+</p>
 
 </div>
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
-<h2 align="center">✨ What I Build</h2>
-
 <div align="center">
+
+<h2>✨ What I Build</h2>
 
 <table>
 <tr>
@@ -163,13 +187,15 @@ mindmap
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
-<h2 align="center">🌟 Philosophy</h2>
-
 <div align="center">
+
+<h2>🌟 Philosophy</h2>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -190,13 +216,15 @@ mindmap
 
 <br/>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <br/>
 
-<h2 align="center">🤝 Let's Connect</h2>
-
 <div align="center">
+
+<h2>🤝 Let's Connect</h2>
 
 <a href="https://github.com/NitinPatwa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -222,4 +250,6 @@ mindmap
 
 <br/>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
