@@ -59,24 +59,21 @@ const nitin = {
 
 <h3 align="center">🎯 Current Focus</h3>
 
-```mermaid
-mindmap
-  root((Nitin))
-    Frontend
-      Next.js
-      React
-      GSAP
-      Tailwind
-    Backend
-      Node.js
-      Express
-      PostgreSQL
-      MongoDB
-    Learning
-      LLMs
-      Cloud
-      DevOps
-```
+<p align="left">
+<b>🎨 Frontend:</b><br/>
+• Next.js & React<br/>
+• GSAP Animations<br/>
+• Tailwind CSS<br/>
+<br/>
+<b>⚙️ Backend:</b><br/>
+• Node.js & Express<br/>
+• PostgreSQL & MongoDB<br/>
+<br/>
+<b>📚 Learning:</b><br/>
+• LLM Integrations<br/>
+• Cloud Services<br/>
+• DevOps Practices<br/>
+</p>
 
 </td>
 </tr>
@@ -149,36 +146,36 @@ mindmap
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/2b0b4a1e-40b5-4f5e-8e38-263f5e2f0f95" width="60" height="60"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" height="80"><br/>
 <b>Animated Web Apps</b><br/>
-<sub>GSAP • Smooth Interactions</sub>
+<sub>GSAP • Smooth Interactions • Next.js</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" height="80"><br/>
 <b>Full Stack Solutions</b><br/>
 <sub>MERN • Next.js • PostgreSQL</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80"><br/>
 <b>LLM Integrations</b><br/>
-<sub>AI-Powered Features</sub>
+<sub>AI-Powered Features • Smart Apps</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" height="80"><br/>
 <b>Utility Tools</b><br/>
-<sub>Automation • Productivity</sub>
+<sub>Automation • Productivity • Real Solutions</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" height="80"><br/>
 <b>Responsive Design</b><br/>
-<sub>Tailwind • Modern UI</sub>
+<sub>Tailwind • Modern UI • Mobile First</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60"><br/>
-<b>Docker Containers</b><br/>
-<sub>Scalable Deployments</sub>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" height="80"><br/>
+<b>API Development</b><br/>
+<sub>RESTful • Scalable • Secure</sub>
 </td>
 </tr>
 </table>
@@ -231,25 +228,4 @@ mindmap
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:nitiniiitr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<p>
-💼 <b>Open to full-time opportunities</b><br/>
-🤝 <b>Available for interesting collaborations</b><br/>
-☕ <b>Let's build something amazing together!</b>
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&
