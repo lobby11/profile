@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar%20Patwa&fontSize=42&fontAlignY=30&desc=%20Full%20Stack%20Development%20|%20Problem%20Solver%20|%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar%20Patwa&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+💻;Express.js+%26+React+Developer+⚛️;GSAP+%26+Animation+Enthusiast+✨;Full+Stack+MERN+Developer+🚀;LLM+%26+AI+Integration+Learner+🤖
-" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+💻;Express.js+%26+React+Developer+⚛️;GSAP+%26+Animation+Enthusiast+✨;Full+Stack+MERN+Developer+🚀;LLM+%26+AI+Integration+Learner+🤖" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/NitinPatwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/nitin-kumar-patwa-a310a9329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:nitiniiitr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -41,7 +40,7 @@ const nitin = {
     role: "Full Stack Developer",
     code: ["JavaScript", "C++", "Python"],
     focus: ["Next.js", "GSAP", "LLMs"],
-    currentlyLearning: "DevOps and improving my backend ",
+    currentlyLearning: "DevOps & Backend",
     lookingFor: "Full-time opportunities",
     funFact: "I animate everything! ✨"
 };
@@ -249,10 +248,26 @@ const nitin = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/nitin-kumar-patwa-a310a9329/">
+<a href="https://linkedin.com/in/nitin-kumar-patwa-a310a9329">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:nitiniiitr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<p>
+💼 <b>Open to full-time opportunities</b><br/>
+🤝 <b>Available for interesting collaborations</b><br/>
+☕ <b>Let's build something amazing together!</b>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
