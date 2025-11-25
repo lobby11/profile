@@ -12,7 +12,7 @@
 
 <p>
 I'm passionate about building <b>real-world solutions</b> with modern web technologies.<br/>
-Focused on  <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalable architectures</b>.<br/>
+Specializing in <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalable architectures</b>.<br/>
 <i>Always curious. Always building. Always improving.</i>
 </p>
 
@@ -263,6 +263,16 @@ const nitin = {
 🤝 <b>Available for interesting collaborations</b><br/>
 ☕ <b>Let's build something amazing together!</b>
 </p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>📈 GitHub Activity</h2>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
