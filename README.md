@@ -9,13 +9,6 @@ I'm passionate about building <b>real-world solutions</b>, creating <b>utility t
 Always curious. Always building. Always improving.
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NitinPatwa&color=blue&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/NitinPatwa?tab=followers">
-    <img src="https://img.shields.io/github/followers/NitinPatwa?style=social" alt="GitHub followers"/>
-  </a>
-</p>
-
 </div>
 
 <hr/>
@@ -79,19 +72,6 @@ Always curious. Always building. Always improving.
 
 <hr/>
 
-<h2>📊 <b>GitHub Stats</b></h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NitinPatwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NitinPatwa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPatwa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<hr/>
-
 <h2>⚡ <b>A Little More About Me</b></h2>
 
 <ul>
@@ -119,11 +99,11 @@ Always curious. Always building. Always improving.
 <h2>📌 <b>Connect With Me</b></h2>
 
 <p align="left">
-  <a href="https://github.com/lobby11">
+  <a href="https://github.com/NitinPatwa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nitin-kumar-patwa-a310a9329/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
