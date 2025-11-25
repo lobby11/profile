@@ -59,21 +59,35 @@ const nitin = {
 
 <h3 align="center">🎯 Current Focus</h3>
 
-<p align="left">
-<b>🎨 Frontend:</b><br/>
-• Next.js & React<br/>
-• GSAP Animations<br/>
-• Tailwind CSS<br/>
 <br/>
-<b>⚙️ Backend:</b><br/>
-• Node.js & Express<br/>
-• PostgreSQL & MongoDB<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/><br/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/><br/>
+<sub><b>🎨 Frontend Stack</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><br/>
+<sub><b>⚙️ Backend Stack</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 <br/>
-<b>📚 Learning:</b><br/>
-• LLM Integrations<br/>
-• Cloud Services<br/>
-• DevOps Practices<br/>
-</p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud"/>
+<img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white" alt="DevOps"/><br/>
+<sub><b>📚 Currently Learning</b></sub>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -146,7 +160,7 @@ const nitin = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257440-8e18aa7f-a58f-455e-bfb1-d78e0e6aaa42.gif" width="80" height="80"><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257464-24b76204-45c0-4f73-be6e-db23cfc92860.gif" width="80" height="80"><br/>
 <b>Modern UI/UX</b><br/>
 <sub>Tailwind • Responsive • Beautiful Design</sub>
 </td>
@@ -227,5 +241,5 @@ const nitin = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nitin-kumar-patwa-a310a9329/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&
