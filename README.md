@@ -1,131 +1,225 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=👋+Hey+there!+I'm+Nitin+Kumar+Patwa;Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;Problem+Solver+%26+Tech+Explorer+✨" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar%20Patwa&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
 
-<h3>🚀 <b>Full Stack Developer | Problem Solver | Tech Explorer</b></h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+💻;Next.js+%26+React+Specialist+⚛️;GSAP+Animation+Expert+✨;Full+Stack+MERN+Developer+🚀;LLM+Integration+Enthusiast+🤖" alt="Typing SVG" />
 
 <p>
-I'm passionate about building <b>real-world solutions</b>, creating <b>utility tools</b>, and exploring <b>modern web technologies</b>.<br/>
-Always curious. Always building. Always improving.
+  <a href="https://github.com/NitinPatwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:nitiniiitr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p>
+I'm passionate about building <b>real-world solutions</b> with modern web technologies.<br/>
+Specializing in <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalable architectures</b>.<br/>
+<i>Always curious. Always building. Always improving.</i>
 </p>
 
 </div>
 
-<hr/>
+<br/>
 
-<h2>🌟 <b>About Me</b></h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br/>
 
-<ul>
-  <li>🌱 I'm a <b>Full Stack Developer (MERN + more)</b></li>
-  <li>💻 I love creating projects that make <b>day-to-day life easier</b></li>
-  <li>🎯 Actively looking for <b>full-time opportunities</b></li>
-  <li>✨ Fluent in both <b>frontend</b> and <b>backend</b></li>
-  <li>🔥 I learn by <b>building real projects</b></li>
-  <li>🤝 Open to <b>collaborations</b> and exciting opportunities</li>
-  <li>📍 Based in <b>Ranchi, Jharkhand, India</b></li>
-  <li>📫 <b>Email:</b> <code>nitiniiitr@gmail.com</code></li>
-</ul>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br clear="right"/>
+### 👨‍💻 About Me
 
-<hr/>
+```javascript
+const nitin = {
+    location: "Ranchi, Jharkhand 🇮🇳",
+    role: "Full Stack Developer",
+    code: ["JavaScript", "C++", "Python"],
+    focus: ["Next.js", "GSAP", "LLMs"],
+    currentlyLearning: "Cloud & DevOps",
+    lookingFor: "Full-time opportunities",
+    funFact: "I animate everything! ✨"
+};
+```
 
-<h2>🛠️ <b>Tech Stack & Tools</b></h2>
+- 🚀 Building **interactive web experiences**
+- ⚡ Specializing in **GSAP animations**
+- 🤖 Exploring **LLM integrations in JS**
+- 🎯 Open to **collaborations**
+- 📧 **nitiniiitr@gmail.com**
 
-<h3><b>💻 Languages</b></h3>
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-<h3><b>🎨 Frontend</b></h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+### 🎯 Current Focus
 
-<h3><b>⚙️ Backend</b></h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
+```mermaid
+mindmap
+  root((Nitin))
+    Frontend
+      Next.js
+      React
+      GSAP
+      Tailwind
+    Backend
+      Node.js
+      Express
+      PostgreSQL
+      MongoDB
+    Learning
+      LLMs
+      Cloud
+      DevOps
+```
 
-<h3><b>🗄️ Databases</b></h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+</td>
+</tr>
+</table>
 
-<h3><b>🔧 Tools & Containerization</b></h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+<br/>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h2>⚡ <b>A Little More About Me</b></h2>
+<br/>
 
-<ul>
-  <li>🚀 I enjoy turning ideas into <b>functional, beautiful products</b></li>
-  <li>🔧 I build <b>clean, scalable, optimized</b> applications</li>
-  <li>🧠 Always exploring new frameworks, technologies & best practices</li>
-  <li>🤝 Open to <b>collaborations</b> and exciting development opportunities</li>
-  <li>🔥 Currently exploring <b>cloud & hosting concepts</b></li>
-  <li>💡 Love solving <b>real-world problems</b> through code</li>
-</ul>
-
-<hr/>
-
-<h2>✨ <b>Highlights — What I Build</b></h2>
-
-<ul>
-  <li>⚙️ <b>Utility tools</b> to automate annoying daily tasks</li>
-  <li>🛠️ <b>Full-stack web apps</b> with React + Node + MongoDB</li>
-  <li>🐳 Containerized apps using <b>Docker</b> for reproducible environments</li>
-  <li>🎨 <b>Responsive, user-friendly</b> interfaces with modern design</li>
-</ul>
-
-<hr/>
-
-<h2>📌 <b>Connect With Me</b></h2>
-
-<p align="left">
-  <a href="https://github.com/NitinPatwa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:nitiniiitr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<hr/>
-
-<h2>🧩 <b>Fun Fact</b></h2>
-
-<p><i>"Every project starts with a blank file — and unlimited possibilities."</i></p>
-
-<hr/>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
-  
-<h3>🌟 <b>Thank you for visiting!</b></h3>
 
-<p><b>If you like what you see, drop a ⭐ on my repos!</b></p>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+### Frontend Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<h2 align="center">✨ What I Build</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/2b0b4a1e-40b5-4f5e-8e38-263f5e2f0f95" width="60" height="60"><br/>
+<b>Animated Web Apps</b><br/>
+<sub>GSAP • Smooth Interactions</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" height="60"><br/>
+<b>Full Stack Solutions</b><br/>
+<sub>MERN • Next.js • PostgreSQL</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" height="60"><br/>
+<b>LLM Integrations</b><br/>
+<sub>AI-Powered Features</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" height="60"><br/>
+<b>Utility Tools</b><br/>
+<sub>Automation • Productivity</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" height="60"><br/>
+<b>Responsive Design</b><br/>
+<sub>Tailwind • Modern UI</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" height="60"><br/>
+<b>Docker Containers</b><br/>
+<sub>Scalable Deployments</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<h2 align="center">🌟 Philosophy</h2>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "Every project starts with a blank file —                 │
+│   and unlimited possibilities."                            │
+│                                                             │
+│  I believe in:                                              │
+│  • Building products that matter 🎯                         │
+│  • Clean, maintainable code 🧹                              │
+│  • Continuous learning 📚                                   │
+│  • Smooth user experiences ✨                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://github.com/NitinPatwa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nitiniiitr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<p>
+💼 <b>Open to full-time opportunities</b><br/>
+🤝 <b>Available for interesting collaborations</b><br/>
+☕ <b>Let's build something amazing together!</b>
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
