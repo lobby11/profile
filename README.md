@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar%20Patwa&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20Kumar%20Patwa&fontSize=42&fontAlignY=30&desc=%20enthusiast%20Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Explorer&descAlignY=51&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+💻;Next.js+%26+React+Specialist+⚛️;GSAP+Animation+Expert+✨;Full+Stack+MERN+Developer+🚀;LLM+Integration+Enthusiast+🤖" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+💻;Express.js+%26+React+Developer+⚛️;GSAP+%26+Animation+Enthusiast+✨;Full+Stack+MERN+Developer+🚀;LLM+%26+AI+Integration+Learner+🤖
+" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/NitinPatwa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
@@ -40,7 +41,7 @@ const nitin = {
     role: "Full Stack Developer",
     code: ["JavaScript", "C++", "Python"],
     focus: ["Next.js", "GSAP", "LLMs"],
-    currentlyLearning: "Cloud & DevOps",
+    currentlyLearning: "DevOps and improving my backend ",
     lookingFor: "Full-time opportunities",
     funFact: "I animate everything! ✨"
 };
@@ -61,30 +62,37 @@ const nitin = {
 
 <br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</div>
+
+<br/>
+
 <table align="center">
 <tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/><br/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/><br/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/><br/>
-<sub><b>🎨 Frontend Stack</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><br/>
-<sub><b>⚙️ Backend Stack</b></sub>
+<td align="center">
+<img src="https://img.shields.io/badge/Frontend-4A90E2?style=for-the-badge" alt="Frontend"/><br/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-<br/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud"/>
-<img src="https://img.shields.io/badge/DevOps-FF6C37?style=for-the-badge&logo=jenkins&logoColor=white" alt="DevOps"/><br/>
-<sub><b>📚 Currently Learning</b></sub>
+<td align="center">
+<img src="https://img.shields.io/badge/Backend-E67E22?style=for-the-badge" alt="Backend"/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Learning-9B59B6?style=for-the-badge" alt="Learning"/><br/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud"/>
+<img src="https://img.shields.io/badge/DevOps-FF6C37?style=flat-square&logo=docker&logoColor=white" alt="DevOps"/>
 </td>
 </tr>
 </table>
@@ -155,7 +163,7 @@ const nitin = {
 
 <div align="center">
 
-<h2>✨ What I Build</h2>
+<h2>✨ What I Can Build</h2>
 
 <table>
 <tr>
@@ -241,5 +249,10 @@ const nitin = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&
+<a href="https://linkedin.com/in/nitin-kumar-patwa-a310a9329/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:nitiniiitr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
