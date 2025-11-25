@@ -12,7 +12,7 @@
 
 <p>
 I'm passionate about building <b>real-world solutions</b> with modern web technologies.<br/>
-Specializing in <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalable architectures</b>.<br/>
+Focused on  <b>interactive UIs</b>, <b>smooth animations</b>, and <b>scalable architectures</b>.<br/>
 <i>Always curious. Always building. Always improving.</i>
 </p>
 
